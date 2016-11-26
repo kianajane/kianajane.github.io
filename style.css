@@ -1,3 +1,8 @@
+.centered {
+  margin-top: 10%;
+  margin-left: 30%;
+}
+
 #quote_spinner {
   font-family: 'Josefin Slab', serif;
 }
