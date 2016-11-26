@@ -1,6 +1,6 @@
 .centered {
-  margin-top: 10%;
-  margin-left: 30%;
+  margin-top: 10% !important;
+  margin-left: 30% !important;
   width: 100%;
 }
 
