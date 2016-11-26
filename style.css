@@ -1,0 +1,11 @@
+#quote_spinner {
+  font-family: 'Josefin Slab', serif;
+}
+
+#kiana_lists {
+  border-left: 1px solid #ccc;
+  font-family: 'Karla', sans-serif;
+  padding-left: 100px;
+}
+
+/*need to add media queries for small screen*/
