@@ -12,6 +12,10 @@ a:hover {
   color: palevioletred;
 }
 
+.list_point {
+  padding-top: 15px;
+}
+
 .centered {
   margin-top: 10% !important;
   margin-left: 30% !important;
