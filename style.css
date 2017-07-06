@@ -21,19 +21,62 @@ a:hover {
   margin-left: 30% !important;
 }
 
+.left-align {
+  margin-top: 50px !important;
+  margin-left: 100px !important;
+}
+
+.title {
+  font-family: 'Karla', sans-serif;
+  font-weight: bold;
+  margin-left: 75px !important;
+  margin-top: 75px !important;
+}
+
+.date {
+  margin-left: 75px !important;
+}
+
 #kiana_lists {
   border-left: 1px solid #ccc;
   font-family: 'Karla', sans-serif;
   padding-left: 100px;
 }
 
+#kiana_posts {
+  border-left: 1px solid #ccc;
+  font-family: 'Karla', sans-serif;
+  padding-left: 50px;
+}
+
 
 /*media query for small screen*/
-@media (max-width: 450px) {
+@media (max-width: 600px) {
 
   html, body {
     max-width: 100%;
     overflow-x: hidden;
+  }
+
+  .left-align {
+    margin-left: 75px !important;
+  }
+
+  .title {
+    font-family: 'Karla', sans-serif;
+    font-weight: bold;
+    margin-left: 75px !important;
+  }
+
+  .date {
+    margin-left: 75px !important;
+  }
+
+  #kiana_posts {
+    border-left: 1px solid #ccc;
+    font-family: 'Karla', sans-serif;
+    padding-left: 50px;
+    padding-right: 10px;
   }
 
   .centered {

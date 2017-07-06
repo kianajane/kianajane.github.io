@@ -1,0 +1,88 @@
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+a {
+  color: palevioletred;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: palevioletred;
+}
+
+.list_point {
+  padding-top: 15px;
+}
+
+.centered {
+  margin-top: 10% !important;
+  margin-left: 30% !important;
+}
+
+.left-align {
+  margin-top: 50px !important;
+  margin-left: 100px !important;
+}
+
+.title {
+  font-family: 'Karla', sans-serif;
+  font-weight: bold;
+  margin-left: 75px !important;
+  margin-top: 75px !important;
+}
+
+.date {
+  margin-left: 75px !important;
+}
+
+#kiana_lists {
+  border-left: 1px solid #ccc;
+  font-family: 'Karla', sans-serif;
+  padding-left: 100px;
+}
+
+#kiana_posts {
+  border-left: 1px solid #ccc;
+  font-family: 'Karla', sans-serif;
+  padding-left: 50px;
+}
+
+
+/*media query for small screen*/
+@media (max-width: 600px) {
+
+  html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+
+  .left-align {
+    margin-left: 75px !important;
+  }
+
+  .title {
+    font-family: 'Karla', sans-serif;
+    font-weight: bold;
+    margin-left: 75px !important;
+  }
+
+  .date {
+    margin-left: 75px !important;
+  }
+
+  #kiana_posts {
+    border-left: 1px solid #ccc;
+    font-family: 'Karla', sans-serif;
+    padding-left: 50px;
+    padding-right: 10px;
+  }
+
+  .centered {
+    margin-top: 20% !important;
+    margin-left: 15% !important;
+    width: 100% !important;
+    padding-left: 5px !important;
+  }
+}
