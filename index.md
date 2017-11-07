@@ -8,7 +8,7 @@ layout: default
       <li class="list_point">who am i?</li>
       <ul>
         <li>grad student @ BrandeisU</li>
-        <li>web developer @ <a href="http://brandeismakerlab.com/">Brandeis MakerLab</a></li>
+        <li>web developer @ <a href="https://brandeismakerlab.com/">Brandeis MakerLab</a></li>
         <li>aspiring STEM teacher</li>
         <li>renaissance musician</li>
         <li>medieval studies enthusiast</li>
