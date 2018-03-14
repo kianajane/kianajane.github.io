@@ -17,12 +17,12 @@ layout: default
       <ul>
         <li><a href="thesis-final.pdf" target="_blank">senior thesis</a></li>
         <li><a href="resume.pdf" target="_blank">resume</a></li>
-        <li><a href="blog.html" target="_blank">blog</a></li>
+        <!-- <li><a href="blog.html" target="_blank">blog</a></li> -->
       </ul>
       <li class="list_point">where can you find me?</li>
       <ul>
-        <li><a href="https://www.facebook.com/thekianaj" target="_blank">facebook</a></li>
-        <li><a href="https://www.twitter.com/thekianaj" target="_blank">twitter</a></li>
+        <!-- <li><a href="https://www.facebook.com/thekianaj" target="_blank">facebook</a></li>
+        <li><a href="https://www.twitter.com/thekianaj" target="_blank">twitter</a></li> -->
         <li><a href="https://www.github.com/kianajane" target="_blank">github</a></li>
         <li><a href="https://www.linkedin.com/in/kiana-jane-0559a595" target="_blank">linkedin</a></li>
       </ul>
